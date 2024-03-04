@@ -1,0 +1,26 @@
+a = input("Enter a Number of which you want to print the Table: \n")
+b = int(a)
+# print(b, 'x', 1, '=', b * 1)
+# print(b, 'x', 2, '=', b * 2)
+# print(b, 'x', 3, '=', b * 3)
+# print(b, 'x', 4, '=', b * 4)
+# print(b, 'x', 5, '=', b * 5)
+# print(b, 'x', 6, '=', b * 6)
+# print(b, 'x', 7, '=', b * 7)
+# print(b, 'x', 8, '=', b * 8)
+# print(b, 'x', 9, '=', b * 9)
+# print(b, 'x', 10, '=', b * 10)
+
+print(f"{b} x {1} = {b*1}")
+print(f"{b} x {2} = {b*2}")
+print(f"{b} x {3} = {b*3}")
+print(f"{b} x {4} = {b*4}")
+print(f"{b} x {5} = {b*5}")
+print(f"{b} x {6} = {b*6}")
+print(f"{b} x {7} = {b*7}")
+print(f"{b} x {8} = {b*8}")
+print(f"{b} x {9} = {b*9}")
+print(f"{b} x {10} = {b*10}")
+
+
+
